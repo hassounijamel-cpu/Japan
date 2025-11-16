@@ -541,7 +541,7 @@ CreateButton(F3XContainer, "Skybox", function()
                     [1] = {
                         Part = v,
                         MeshId = "http://www.roblox.com/asset/?id=111891702759441", -- نفس الميش القديم
-                        TextureId = "http://www.roblox.com/asset/?id=101582545658182", -- الصورة الجديدة
+                        TextureId = "http://www.roblox.com/asset/?id=100379034078471", -- الصورة الجديدة
                         Scale = Vector3.new(10000, 10000, 10000)
                     }
                 })
